@@ -4,7 +4,7 @@
 
     Voici notre application :
 
-    Page d'acceuil:On va le bouton  de modification et de suppression et de modification  
+    Page d'acceuil:On le bouton  de modification et de suppression et de modification  
 
 ![image](https://github.com/abdelhamidx/flutter-projet-5iir10/assets/110861149/bc8d159a-bbcb-4fdb-96bf-5b9dc6b898a9)
 
